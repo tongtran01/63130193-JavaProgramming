@@ -16,7 +16,7 @@ public class Bai4 {
 		//ax^2+bx+c=0
 		//a=0
 		Scanner ptbac2 = new Scanner(System.in);
-		System.out.print("Nhập hệ số pt bậc 2:");
+		System.out.print("Nhập hệ số a,b,c:");
 		double a = ptbac2.nextDouble();
 		double b = ptbac2.nextDouble();
 		double c = ptbac2.nextDouble();
