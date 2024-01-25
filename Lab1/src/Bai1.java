@@ -21,5 +21,5 @@ public class Bai1 {
 		System.out.printf("%s %.2f", hoTen, diemtb);
 
 	}
-
+   
 }
