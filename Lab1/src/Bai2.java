@@ -14,7 +14,7 @@ public class Bai2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Scanner hcn = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		System.out.print("Chieu dai:");
 		double chieudai = hcn.nextDouble();
 		System.out.print("Chieu rong:");

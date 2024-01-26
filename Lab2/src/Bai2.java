@@ -14,11 +14,11 @@ public class Bai2 {
 	//ax^2+bx+c=0
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner ptbac2 = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		System.out.print("Nhập hệ số a,b,c:");
-		double a = ptbac2.nextDouble();
-		double b = ptbac2.nextDouble();
-		double c = ptbac2.nextDouble();
+		double a = scanner.nextDouble();
+		double b = scanner.nextDouble();
+		double c = scanner.nextDouble();
 		if(a==0) {
 			System.out.printf("Giai phuong trinh bac nhat: %f",-c/b);
 			
