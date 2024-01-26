@@ -34,13 +34,9 @@ public class Bai4 {
 				break;
 			case 4:
 				System.exit(0);
-				
-				
 			}
-			
-
+		}
 	}
-}
 	//PTB1
 	public static void PTB1() {
 		// TODO Auto-generated method stub
@@ -84,12 +80,8 @@ public class Bai4 {
 			else{
 				double can = Math.sqrt(Delta);
 				System.out.printf("Phương trình có 2 nghiệm phân biệt: x1=%.2f x2=%.2f", (-b+can)/(2*a),(-b-can)/(2*a));
-				
 			}
-			
-			
 		}
-
 	}
 	//TinhTienDien
 	public static void TinhTienDien(){
@@ -104,9 +96,5 @@ public class Bai4 {
 		else {
 			System.out.printf("Tiền: %.2f",50*1000+(soDien-50)*1200);
 		}
-
 	}
-	
-
-
 }

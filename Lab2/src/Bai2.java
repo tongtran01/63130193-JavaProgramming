@@ -34,13 +34,8 @@ public class Bai2 {
 			}
 			else{
 				double can = Math.sqrt(Delta);
-				System.out.printf("Phương trình có 2 nghiệm phân biệt: x1=%.2f x2=%.2f", (-b+can)/(2*a),(-b-can)/(2*a));
-				
-			}
-			
-			
+				System.out.printf("Phương trình có 2 nghiệm phân biệt: x1=%.2f x2=%.2f", (-b+can)/(2*a),(-b-can)/(2*a));	
+			}	
 		}
-
 	}
-
 }
