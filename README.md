@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Đạt and I'm a student, from Nha Trang</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -69,5 +65,3 @@
 </div>
 
 ###
-
-
