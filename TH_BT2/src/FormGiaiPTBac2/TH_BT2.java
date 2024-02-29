@@ -1,3 +1,4 @@
+package FormGiaiPTBac2;
 import java.awt.EventQueue;
 import javax.imageio.stream.MemoryCacheImageOutputStream;
 import javax.swing.BorderFactory;

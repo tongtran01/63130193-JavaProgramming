@@ -1,4 +1,4 @@
-package Tongdat;
+package FormDangNhap;
 
 import java.awt.EventQueue;
 
@@ -36,13 +36,13 @@ public class ManHinhChinh extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
-		contentPane.setBackground(new Color(255, 128, 192));
+		contentPane.setBackground(new Color(0, 128, 128));
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("WELCOME");
+		JLabel lblNewLabel = new JLabel("Dang nhap thanh cong");
 		lblNewLabel.setBounds(164, 81, 116, 65);
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		contentPane.add(lblNewLabel);

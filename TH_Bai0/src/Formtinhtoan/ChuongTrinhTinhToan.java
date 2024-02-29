@@ -1,6 +1,7 @@
 /**
  * 
  */
+package Formtinhtoan;
 
 /**
  * 
@@ -11,7 +12,8 @@ public class ChuongTrinhTinhToan {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Tạo một màn hình GUI để tính toán
+		new ManHinhTinhToan().setVisible(true);
 
 	}
 
